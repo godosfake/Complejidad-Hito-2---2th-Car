@@ -1,0 +1,133 @@
+body {
+    background-color: white;
+    /*background-image: url(https://e0.pxfuel.com/wallpapers/639/205/desktop-wallpaper-full-cars-gallery-ultra-car-best-car.jpg);*/
+}
+
+/*Toda la cabecera*/
+header{
+    background-color: rgb(8, 8, 54);
+    height: 2cm;
+    margin: 0.1cm;
+    padding: 0.5cm;
+    display: flex;
+}
+
+.ContCabecera{
+    background-color: rgb(30, 6, 53);
+    height: 2cm;
+}
+
+.TitPrincipal{
+    color: white;
+}
+
+.espacio{
+    margin-left: 1cm;
+    margin-right: 10cm;
+}
+
+.ImgTitulo{
+    height: 2cm;
+    width: 10cm;
+}
+
+.MenuBar{
+    background-color: rgb(8, 8, 54);
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.aBar{
+    text-decoration: none;
+    font-size: 30px;
+    color: rgb(231, 231, 231);
+    margin: 1cm;
+}
+
+/*Todo el cuerpo*/
+
+.MainDiv{
+    padding: 1cm 10cm;
+    /*background-image: url(https://diarium.usal.es/ana2martin/files/2014/11/toyota_gt86.jpg);*/
+}
+
+.EscritosImg{
+    text-decoration: none;
+}
+
+.ImgPrincipal{
+    width: 50%;
+    height: 50%;
+}
+
+.UsuarioBar {
+    background-color: rgb(8, 8, 54);
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.ContUBar {
+    background-color: rgb(8, 8, 54);
+    height: 2cm;
+    width: 50%;
+    margin: 0.1cm;
+    padding: 0.5cm;
+    display: flex;
+}
+
+.pBar {
+    text-decoration: none;
+    font-size: 30px;
+    color: rgb(231, 231, 231);
+    margin: 0 2.6cm;
+    padding: 0.5cm 0;
+}
+
+.UsuarioBar {
+    background-color: rgb(8, 8, 54);
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.Empezar{
+    background-color: rgb(0, 0, 0);
+    width: 20%;
+    margin-left: 13cm;
+}
+
+.aLetras{
+    font-size: 1cm;
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+/*Todo el footer*/
+footer{
+    background-color: rgb(0, 0, 0);
+    height: 3cm;
+    margin-bottom: 0.1cm;
+    padding: 0.5cm;
+    display: block;
+}
+
+.navFooter {
+    background-color: rgb(1, 1, 10);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.pFooter {
+    text-decoration: none;
+    font-size: 30px;
+    color: rgb(231, 231, 231);
+    margin: 1px;
+}
